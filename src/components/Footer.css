@@ -1,0 +1,31 @@
+
+.foot {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+    color: white;
+    padding: 50px 0;
+  }
+  
+  ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+    flex-direction: row;
+  }
+  
+  ul li {
+    color: white;
+    margin: 10px;
+  }
+  .face{
+    height: 50px;
+  }
+  .ig{
+    height: 50px;
+  }
+  .ytb{
+    height: 50px;
+  }
